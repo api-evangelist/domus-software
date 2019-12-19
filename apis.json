@@ -1,0 +1,70 @@
+{
+    "name": "Domus Software",
+    "description": "The most user friendly estate agent software and letting agency software. From \u00a349 a month, 30 day free trial, no setup fees or long contract.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1258-domus-software.jpg",
+    "tags": [
+        "accounts",
+        "api provider",
+        "have api",
+        "properties"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/domus-software\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Domus Software",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1258-domus-software.jpg",
+            "humanURL": "http:\/\/www.domus.net",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/domus-software-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/domus-software-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.domus.net\/sales\/go\/news"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/domus"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/domus"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.domus.net\/api"
+        },
+        {
+            "type": "Email",
+            "url": "info@domus.net"
+        },
+        {
+            "type": "Email",
+            "url": "support@domus.net"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/domus_software"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.domus.net"
+        }
+    ]
+}
